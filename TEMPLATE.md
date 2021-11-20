@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Translation**
 
-- 🙋🏽‍♂️ I've been on GitHub for {{ ACCOUNT_AGE }} year(s)!
+- 🙋🏽‍♂️ I've been on GitHub for 1 year(s)!
 
 ### Connect with me!
 
