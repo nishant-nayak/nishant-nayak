@@ -30,6 +30,8 @@ jobs:
         uses: actions-js/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_name: Actions Bot
+          message: Updated stats for the day!
   update-waka:
     name: Update Readme with Waka Data
     needs: update-template
