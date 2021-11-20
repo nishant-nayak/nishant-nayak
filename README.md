@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Machine Translation**
 
+- 🙋🏽‍♂️ I've been on GitHub for {{ ACCOUNT_AGE }} years!
+
 ### Connect with me!
 
 <a href="mailto:nishantnayak2001@gmail.com?subject=[GitHub Profile]: " target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="nishantnayak2001@gmail.com" height="30" /></a>&nbsp;

@@ -19,6 +19,8 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1.2
         with:
           token: ${{ secrets.GH_USER_TOKEN }}
+      - name: Rename README to TEMPLATE
+        run: mv README.md TEMPLATE.md
       - name: Add GitHub Activity Stats
         uses: actions-js/profile-readme@v1
         with:
