@@ -34,3 +34,6 @@
 ### My Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark" alt="nishant-nayak" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
