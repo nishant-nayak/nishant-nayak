@@ -18,7 +18,7 @@ jobs:
       - name: Add GitHub Age
         uses: teoxoy/profile-readme-stats@v1.2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_USER_TOKEN }}
       - name: Add GitHub Activity Stats
         uses: actions-js/profile-readme@v1
         with:
