@@ -1,4 +1,4 @@
-name: Update with Waka Stats
+name: Update Readme
 on:
   schedule:
     - cron: '0 3 * * *'
@@ -6,9 +6,13 @@ on:
 
 jobs:
   update-readme:
-    name: Update Readme with statistics
+    name: Update Readme
     runs-on: ubuntu-latest
     steps:
+      - uses: actions-js/profile-readme@v1
+        with:
+          username: nishant-nayak
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
