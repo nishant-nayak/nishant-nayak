@@ -1,26 +1,36 @@
-name: Update Readme
+name: Update Readme Workflow
 on:
   schedule:
+    # Update daily at 3AM
     - cron: '0 3 * * *'
+  # Also update on manual runs
   workflow_dispatch:
 
 jobs:
-  update-readme-js:
-    name: Update Readme with GitHub info
+  update-template:
+    name: Update Readme using Template Actions
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Repository
+        uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - uses: actions-js/profile-readme@v1
+      - name: Add GitHub Age
+        uses: teoxoy/profile-readme-stats@v1.2
         with:
-          username: nishant-nayak
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add GitHub Activity Stats
+        uses: actions-js/profile-readme@v1
+        with:
+          username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      - uses: actions-js/push@v1.3
+      - name: Push to Repo
+        uses: actions-js/push@v1.3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-  update-readme-waka:
-    needs: update-readme-js
+  update-waka:
+    name: Update Readme with Waka Data
+    needs: update-template
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
