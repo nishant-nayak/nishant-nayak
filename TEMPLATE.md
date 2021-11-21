@@ -37,10 +37,13 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark" alt="nishant-nayak" />
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishant-nayak&no-bg=true&no-frame=true&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 <!--GITHUB_ACTIVITY:{"rows": 3}-->
