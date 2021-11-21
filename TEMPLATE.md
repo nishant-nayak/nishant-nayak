@@ -35,7 +35,7 @@
 
 ### My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark" alt="nishant-nayak" />
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="nishant-nayak" /></a>
 
 <br>
 
