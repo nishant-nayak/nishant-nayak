@@ -35,15 +35,18 @@
 
 ### My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark" alt="nishant-nayak" />
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishant-nayak&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="nishant-nayak" /></a>
 
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nishant-nayak&no-bg=true&no-frame=true&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
+
+📊 Language Stats for the week
 <!--START_SECTION:waka-->
-```text
-YAML       ███████████████████████████████▓░░░░░░░░░   77.57 % 
-Markdown   █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.43 % 
-```
 <!--END_SECTION:waka-->
 
-* ❗️ Closed issue #918 in devicons/devicon
-* 🗣 Commented on #918 in devicons/devicon
-* ❗️ Opened issue #918 in devicons/devicon
+* 💪 Opened PR #322 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
