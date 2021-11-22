@@ -19,13 +19,15 @@ jobs:
         uses: teoxoy/profile-readme-stats@v1.2
         with:
           token: ${{ secrets.GH_USER_TOKEN }}
-      - name: Rename README to TEMPLATE
-        run: mv README.md TEMPLATE.md
+          readme: ./_TEMPLATE.md
       - name: Add GitHub Activity Stats
         uses: actions-js/profile-readme@v1
         with:
           username: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          template: ./_TEMPLATE.md
+      - name: Remove temporary template
+        run: rm _TEMPLATE.md
       - name: Push to Repo
         uses: actions-js/push@v1.3
         with:

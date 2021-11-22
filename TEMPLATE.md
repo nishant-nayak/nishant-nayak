@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Translation**
 
-- 🙋🏽‍♂️ I've been on GitHub for 1 year(s)!
+- 🙋🏽‍♂️ I've been on GitHub for {{ ACCOUNT_AGE }} year(s)!
 
 ### Connect with me!
 
@@ -43,8 +43,11 @@
 
 <br>
 
-📊 Language Stats for the week
+#### 📊 Language Stats for the week
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+#### Recent Activity
 
 <!--GITHUB_ACTIVITY:{"rows": 3}-->
