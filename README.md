@@ -43,14 +43,13 @@
 
 <br>
 
-📊 Language Stats for the week
+#### 📊 Language Stats for the week
+
 <!--START_SECTION:waka-->
-```text
-YAML       ███████████████████████████████▓░░░░░░░░░   77.57 % 
-Markdown   █████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   22.43 % 
-```
 <!--END_SECTION:waka-->
 
+#### Recent Activity
+
+* ⬆️ Pushed 2 commits to nishant-nayak/nishant-nayak
 * 💪 Opened PR #322 in IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
 * ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
