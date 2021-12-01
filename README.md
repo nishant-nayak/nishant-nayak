@@ -46,17 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-```text
-YAML        ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Docker      ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-SCSS        █████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Python      █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Terraform   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-```
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 🍴 Forked nishant-nayak/Computer-Networks-Lab from AnirudhAchal/Computer-Networks-Lab
+* ⬆️ Pushed 1 commit to IEEE-NITK/website-assets
 * ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
+* 🍴 Forked nishant-nayak/Computer-Networks-Lab from AnirudhAchal/Computer-Networks-Lab
