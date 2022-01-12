@@ -46,13 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* 💪 Opened PR #324 in IEEE-NITK/ieee-nitk.github.io
 * ⬆️ Pushed 2 commits to IEEE-NITK/ieee-nitk.github.io
 * 🎉 Merged PR #323 in IEEE-NITK/ieee-nitk.github.io
-* 💪 Opened PR #323 in IEEE-NITK/ieee-nitk.github.io
