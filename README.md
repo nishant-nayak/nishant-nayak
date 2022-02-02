@@ -46,17 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-```text
-Python   ███████████████████▓░░░░░░░░░░░░░░░░░░░░░   47.59 % 
-HTML     ███████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-CSV      ████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Go       ███▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-YAML     █▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-```
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to IEEE-NITK/embedathon-static-assets
 * ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* 🍴 Forked nishant-nayak/Machine-Translation-Learning from IEEE-NITK/Machine-Translation-Learning
-* 💪 Opened PR #326 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
