@@ -46,17 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-```text
-Python   ███████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░   37.45 % 
-HTML     ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   26.46 % 
-Other    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Text     ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-CSV      ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-```
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* ⬆️ Pushed 1 commit to IEEE-NITK/embedathon-static-assets
-* ⬆️ Pushed 1 commit to nishant-nayak/Machine-Translation-Learning
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
+* 💪 Opened PR #10 in IEEE-NITK/Embedathon-Website
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
