@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                   ████████████████▒░░░░░░░░   65.64 %
-Other                    ████████▒░░░░░░░░░░░░░░░░   32.78 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
 * ⬆️ Pushed 1 commit to WebClub-NITK/incident-2022
-* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
