@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ███████████████████▒░░░░░   77.40 %
-Markdown                     ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-YAML                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-HTML                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
-CSV                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JavaScript                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* ⬆️ Pushed 1 commit to WebClub-NITK/incident-2022
-* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
+* ⬆️ Pushed 2 commits to sravanireddy1102/PyPseudoFlow
+* ⬆️ Pushed 1 commit to sravanireddy1102/PyPseudoFlow
+* ⬆️ Pushed 2 commits to sravanireddy1102/PyPseudoFlow
