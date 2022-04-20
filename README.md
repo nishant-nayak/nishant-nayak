@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Markdown                   █████████████████████████   99.76 %
-Text                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 2 commits to sravanireddy1102/PyPseudoFlow
-* ⬆️ Pushed 1 commit to sravanireddy1102/PyPseudoFlow
-* ⬆️ Pushed 2 commits to sravanireddy1102/PyPseudoFlow
+* ⬆️ Pushed 2 commits to IEEE-NITK/ieee-nitk.github.io
+* 🎉 Merged PR #330 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
