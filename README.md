@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 2 commits to nishant-nayak/e-auctions
+* 🎉 Merged PR #2 in nishant-nayak/e-auctions
 * ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 2 commits to IEEE-NITK/ieee-nitk.github.io
-* 🎉 Merged PR #330 in IEEE-NITK/ieee-nitk.github.io
