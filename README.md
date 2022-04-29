@@ -46,18 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-HTML                         ██████████░░░░░░░░░░░░░░░   39.35 %
-Python                       ████████▓░░░░░░░░░░░░░░░░   34.30 %
-Text                         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other                        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 2 commits to nishant-nayak/e-auctions
-* 🎉 Merged PR #2 in nishant-nayak/e-auctions
-* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
+* ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
+* ⬆️ Pushed 2 commits to nishant-nayak/wiki-translate
