@@ -46,18 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Dart                     █████████████████████▓░░░   86.84 %
-Text                     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Python                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Groovy                   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
 * ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
 * ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
-* ⬆️ Pushed 2 commits to nishant-nayak/wiki-translate
