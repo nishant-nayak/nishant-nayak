@@ -46,18 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-JSON                         ██████████████░░░░░░░░░░░   56.61 %
-Markdown                     ██████████░░░░░░░░░░░░░░░   39.46 %
-JavaScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-YAML                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
 * ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
+* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
 * ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
