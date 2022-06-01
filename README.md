@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ███████████████▓░░░░░░░░░   63.01 %
-Markdown                     ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-JavaScript                   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-Text                         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-CSV                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
 * ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
 * ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* ⬆️ Pushed 1 commit to nishant-nayak/wiki-translate
