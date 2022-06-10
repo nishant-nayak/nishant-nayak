@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Translation**
 
-- 🙋🏽‍♂️ I've been on GitHub for 1 year(s)!
+- 🙋🏽‍♂️ I've been on GitHub for 2 year(s)!
 
 ### Connect with me!
 
@@ -46,13 +46,6 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                   ███████████████████████▒░   93.35 %
-Bash                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-Other                    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
