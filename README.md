@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       █████████████████▓░░░░░░░   70.50 %
-Markdown                     ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Bash                         ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-YAML                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-JavaScript                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
-* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 1 commit to nishant-nayak/WhatsApp-Group-Add
+* ❗️ Opened issue #15 in IEEE-NITK/Embedathon-Website
+* 🗣 Commented on #12 in IEEE-NITK/Embedathon-Website
+* ❗️ Opened issue #14 in IEEE-NITK/Embedathon-Website
