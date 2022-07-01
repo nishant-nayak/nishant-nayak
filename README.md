@@ -46,19 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ███████████████████▒░░░░░   76.88 %
-Markdown                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-Bash                         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-YAML                         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ❗️ Opened issue #15 in IEEE-NITK/Embedathon-Website
-* 🗣 Commented on #12 in IEEE-NITK/Embedathon-Website
-* ❗️ Opened issue #14 in IEEE-NITK/Embedathon-Website
+* ⬆️ Pushed 1 commit to AI4Bharat/Chitralekha-Backend
+* 💪 Opened PR #4 in AI4Bharat/Chitralekha-Backend
+* ⬆️ Pushed 1 commit to AI4Bharat/Chitralekha-Backend
