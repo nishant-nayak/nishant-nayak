@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ██████████████████░░░░░░░   72.00 %
-Docker                       █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-CSV                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-TOML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 💪 Opened PR #61 in Comfy-Themes/Spicetify
-* ⬆️ Pushed 1 commit to nishant-nayak/Spicetify
-* 🍴 Forked nishant-nayak/Spicetify from Comfy-Themes/Spicetify
+* 💪 Opened PR #9 in AI4Bharat/Chitralekha-Backend
+* ⬆️ Pushed 1 commit to AI4Bharat/Chitralekha-Backend
+* ⬆️ Pushed 31 commits to AI4Bharat/Chitralekha-Backend
