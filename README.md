@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                     ███████████████████▒░░░░░   77.48 %
-TOML                       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
-CSV                        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-HTML                       ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-Markdown                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 💪 Opened PR #16 in AI4Bharat/Chitralekha-Backend
+* ⬆️ Pushed 1 commit to IEEE-NITK/blog
+* 💪 Opened PR #17 in AI4Bharat/Chitralekha-Backend
 * ⬆️ Pushed 1 commit to AI4Bharat/Chitralekha-Backend
-* 💪 Opened PR #13 in AI4Bharat/Chitralekha-Backend
