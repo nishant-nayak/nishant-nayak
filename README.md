@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ███████████████████▓░░░░░   78.96 %
-HTML                         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-CSV                          █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-Git Config                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Bash                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
 * ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
+* ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
 * ⬆️ Pushed 5 commits to AI4Bharat/Chitralekha-Backend
-* 🎉 Merged PR #17 in AI4Bharat/Chitralekha-Backend
