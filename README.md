@@ -50,6 +50,6 @@
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to IEEE-NITK/blog
 * ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
 * ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
-* ⬆️ Pushed 5 commits to AI4Bharat/Chitralekha-Backend
