@@ -51,5 +51,5 @@
 #### Recent Activity
 
 * ⬆️ Pushed 1 commit to IEEE-NITK/blog
-* ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
-* ⬆️ Pushed 1 commit to silicon-maze/silicon-maze.github.io
+* ⬆️ Pushed 2 commits to IEEE-NITK/blog
+* 🎉 Merged PR #102 in IEEE-NITK/blog
