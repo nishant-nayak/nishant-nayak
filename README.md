@@ -46,19 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                     ██████████████▓░░░░░░░░░░   59.11 %
-Markdown                   █████████░░░░░░░░░░░░░░░░   36.17 %
-YAML                       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-CSV                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-JSON                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to IEEE-NITK/blog
-* ⬆️ Pushed 2 commits to IEEE-NITK/blog
-* 🎉 Merged PR #102 in IEEE-NITK/blog
+* 💪 Opened PR #63 in HiLab-git/SSL4MIS
+* ⬆️ Pushed 1 commit to nishant-nayak/SSL4MIS
+* 🍴 Forked nishant-nayak/SSL4MIS from HiLab-git/SSL4MIS
