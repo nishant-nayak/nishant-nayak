@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [iHART](https://github.com/iHART-NITK)
 
-- 🌱 I’m currently learning **Machine Translation**
+- 🌱 I’m currently learning **Semi-Supervised Learning** and **802.1X RADIUS Accounting**!
 
 - 🙋🏽‍♂️ I've been on GitHub for {{ ACCOUNT_AGE }} year(s)!
 
