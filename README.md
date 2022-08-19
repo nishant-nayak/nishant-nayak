@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [iHART](https://github.com/iHART-NITK)
 
-- 🌱 I’m currently learning **Machine Translation**
+- 🌱 I’m currently learning **Semi-Supervised Learning** and **802.1X RADIUS Accounting**!
 
 - 🙋🏽‍♂️ I've been on GitHub for 2 year(s)!
 
@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Other                   ████████████████████████▓   99.30 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
 * 💪 Opened PR #63 in HiLab-git/SSL4MIS
 * ⬆️ Pushed 1 commit to nishant-nayak/SSL4MIS
-* 🍴 Forked nishant-nayak/SSL4MIS from HiLab-git/SSL4MIS
