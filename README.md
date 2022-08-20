@@ -46,6 +46,11 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
+
+```text
+Other                      ████████████████████████▓   99.30 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Recent Activity
