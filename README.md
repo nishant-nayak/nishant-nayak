@@ -46,18 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-JavaScript                   ██████████████░░░░░░░░░░░   56.53 %
-Python                       ████████▒░░░░░░░░░░░░░░░░   33.30 %
-JSON                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
-Markdown                     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to iHART-NITK/frontend
+* ❗️ Opened issue #338 in IEEE-NITK/ieee-nitk.github.io
 * ❗️ Opened issue #337 in IEEE-NITK/ieee-nitk.github.io
-* 🗣 Commented on #95 in athul/waka-readme
-* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
