@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Dart                         ██████████░░░░░░░░░░░░░░░   39.89 %
-YAML                         █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-Bash                         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Groovy                       ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
-HTML                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to iHART-NITK/frontend
-* ❗️ Opened issue #338 in IEEE-NITK/ieee-nitk.github.io
-* ❗️ Opened issue #337 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/blog
+* 💪 Opened PR #109 in IEEE-NITK/blog
+* ⬆️ Pushed 1 commit to IEEE-NITK/blog
