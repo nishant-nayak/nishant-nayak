@@ -46,19 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                     ████████████████████████░   96.33 %
-Markdown                   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-YAML                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Bash                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other                      ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to IEEE-NITK/blog
-* 💪 Opened PR #109 in IEEE-NITK/blog
-* ⬆️ Pushed 1 commit to IEEE-NITK/blog
+* ❗️ Closed issue #337 in IEEE-NITK/ieee-nitk.github.io
+* 🗣 Commented on #337 in IEEE-NITK/ieee-nitk.github.io
+* ❗️ Closed issue #338 in IEEE-NITK/ieee-nitk.github.io
