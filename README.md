@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Docker                   ███████████████████▒░░░░░   76.83 %
-Other                    █████░░░░░░░░░░░░░░░░░░░░   19.98 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
 * ❗️ Closed issue #337 in IEEE-NITK/ieee-nitk.github.io
-* 🗣 Commented on #337 in IEEE-NITK/ieee-nitk.github.io
-* ❗️ Closed issue #338 in IEEE-NITK/ieee-nitk.github.io
