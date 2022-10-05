@@ -46,19 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-YAML                       █████████▒░░░░░░░░░░░░░░░   37.88 %
-Python                     ████▓░░░░░░░░░░░░░░░░░░░░   18.68 %
-Docker                     ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-Bash                       ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-Other                      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
-* ❗️ Closed issue #337 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
