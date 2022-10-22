@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                   ████████████████████████▓   98.93 %
-CSV                      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* 🗣 Commented on #345 in IEEE-NITK/ieee-nitk.github.io
+* 🗣 Commented on #16 in IEEE-NITK/Embedathon-Website
 * ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 2 commits to IEEE-NITK/ieee-nitk.github.io
-* 🎉 Merged PR #343 in IEEE-NITK/ieee-nitk.github.io
