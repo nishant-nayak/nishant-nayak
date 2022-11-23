@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-HTML                     █████████████████████░░░░   83.87 %
-Python                   ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 💪 Opened PR #17 in IEEE-NITK/Embedathon-Website
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
-* ⬆️ Pushed 1 commit to IEEE-NITK/embedathon-static-assets
+* ⬆️ Pushed 2 commits to IEEE-NITK/Embedathon-Website
+* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
