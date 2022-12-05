@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-HTML                         ███████▓░░░░░░░░░░░░░░░░░   31.25 %
-Python                       █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
-Markdown                     ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-JSON                         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-JavaScript                   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-CSV                          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 4 commits to IEEE-NITK/ieee-nitk.github.io
-* 🎉 Merged PR #350 in IEEE-NITK/ieee-nitk.github.io
+* ❗️ Opened issue #351 in IEEE-NITK/ieee-nitk.github.io
+* ❗️ Closed issue #41 in woc-nitk/woc-nitk.github.io
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
