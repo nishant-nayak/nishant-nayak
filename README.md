@@ -46,20 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       ██████████▓░░░░░░░░░░░░░░   42.67 %
-HTML                         ███████▓░░░░░░░░░░░░░░░░░   30.24 %
-CSV                          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
-Terraform                    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-YAML                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ❗️ Opened issue #29 in IEEE-NITK/Embedathon-Website
-* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
-* 🎉 Merged PR #28 in IEEE-NITK/Embedathon-Website
+* ❗️ Opened issue #32 in IEEE-NITK/Embedathon-Website
+* ❗️ Opened issue #31 in IEEE-NITK/Embedathon-Website
+* ❗️ Opened issue #30 in IEEE-NITK/Embedathon-Website
