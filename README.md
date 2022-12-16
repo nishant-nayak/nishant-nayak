@@ -46,19 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Python                       █████████████░░░░░░░░░░░░   51.78 %
-HTML                         ███████▓░░░░░░░░░░░░░░░░░   30.63 %
-Terraform                    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JavaScript                   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-Other                        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 🎉 Merged PR #354 in IEEE-NITK/ieee-nitk.github.io
-* ⬆️ Pushed 2 commits to IEEE-NITK/ieee-nitk.github.io
 * ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
+* 🎉 Merged PR #40 in IEEE-NITK/Embedathon-Website
+* 🎉 Merged PR #354 in IEEE-NITK/ieee-nitk.github.io
