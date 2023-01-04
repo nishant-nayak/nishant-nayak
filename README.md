@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ❗️ Opened issue #50 in IEEE-NITK/Embedathon-Website
-* ❗️ Opened issue #49 in IEEE-NITK/Embedathon-Website
-* ⬆️ Pushed 1 commit to IEEE-NITK/Embedathon-Website
+* 🗣 Commented on #42 in IEEE-NITK/Embedathon-Website
+* 🗣 Commented on #41 in IEEE-NITK/Embedathon-Website
+* ❗️ Closed issue #4 in nishant-nayak/wiki-translate
