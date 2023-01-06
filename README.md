@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-HTML                   █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ❗️ Opened issue #4 in IEEE-NITK/corpus
 * 🗣 Commented on #42 in IEEE-NITK/Embedathon-Website
 * 🗣 Commented on #41 in IEEE-NITK/Embedathon-Website
-* ❗️ Closed issue #4 in nishant-nayak/wiki-translate
