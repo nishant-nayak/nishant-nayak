@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-JSON                         ██████████▓░░░░░░░░░░░░░░   43.19 %
-Other                        ██████▒░░░░░░░░░░░░░░░░░░   25.22 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ❗️ Opened issue #6 in IEEE-NITK/corpus
+* ❗️ Opened issue #5 in IEEE-NITK/corpus
 * ❗️ Opened issue #4 in IEEE-NITK/corpus
-* 🗣 Commented on #42 in IEEE-NITK/Embedathon-Website
-* 🗣 Commented on #41 in IEEE-NITK/Embedathon-Website
