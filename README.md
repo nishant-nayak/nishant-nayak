@@ -46,16 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-Bash                         ████████████████▒░░░░░░░░   64.91 %
-Other                        █████▓░░░░░░░░░░░░░░░░░░░   22.23 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 🗣 Commented on #7 in IEEE-NITK/corpus
-* ⬆️ Pushed 7 commits to IEEE-NITK/ieee-nitk.github.io
-* 🎉 Merged PR #365 in IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
+* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
+* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
