@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
 * ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
-* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
-* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
+* 🎉 Merged PR #21 in IEEE-NITK/virtual-expo
+* 🗣 Commented on #21 in IEEE-NITK/virtual-expo
