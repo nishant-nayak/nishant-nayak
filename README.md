@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-YAML                   █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
-* 🎉 Merged PR #21 in IEEE-NITK/virtual-expo
-* 🗣 Commented on #21 in IEEE-NITK/virtual-expo
+* ❗️ Closed issue #6 in IEEE-NITK/corpus
+* ❗️ Closed issue #4 in IEEE-NITK/corpus
+* ⬆️ Pushed 12 commits to IEEE-NITK/corpus
