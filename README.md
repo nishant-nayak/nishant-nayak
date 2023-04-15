@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```text
-SSH Config                   █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 🎉 Merged PR #25 in IEEE-NITK/virtual-expo
-* ⬆️ Pushed 1 commit to IEEE-NITK/virtual-expo
-* ⬆️ Pushed 1 commit to IEEE-NITK/ieee-nitk.github.io
+* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
+* 🎉 Merged PR #9 in IEEE-NITK/corpus
+* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
