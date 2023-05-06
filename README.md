@@ -1,10 +1,10 @@
 ![Header Image](/assets/github-header.png)
 <h1 align="center">Hi <img src="assets/wave.gif" alt="wave" height="35em">, I'm Nishant Nayak</h1>
-<h3 align="center">An undergrad Computer Science student from India</h3>
+<h3 align="center">A <b>Member of Technical Staff</b> at <b>Oracle, India</b></h3>
 
-- 🔭 I’m currently working on [iHART](https://github.com/iHART-NITK)
+- 🔭 I’m currently working on [Corpus](https://github.com/IEEE-NITK/corpus)
 
-- 🌱 I’m currently learning **Semi-Supervised Learning** and **802.1X RADIUS Accounting**!
+- 🌱 I’m currently learning **Golang**!
 
 - 🙋🏽‍♂️ I've been on GitHub for 2 year(s)!
 
@@ -50,6 +50,6 @@
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
 * ⬆️ Pushed 1 commit to IEEE-NITK/corpus
 * 🎉 Merged PR #9 in IEEE-NITK/corpus
-* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
