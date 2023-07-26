@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Corpus](https://github.com/IEEE-NITK/corpus)
 
-- 🌱 I’m currently learning **Golang**!
+- 🌱 I’m currently learning **Ruby**!
 
 - 🙋🏽‍♂️ I've been on GitHub for 3 year(s)!
 
@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
 * 🗣 Commented on #12 in IEEE-NITK/corpus
 * 🗣 Commented on #12 in IEEE-NITK/corpus
-* ❗️ Closed issue #386 in IEEE-NITK/ieee-nitk.github.io
