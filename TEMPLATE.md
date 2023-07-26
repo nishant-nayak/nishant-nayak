@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Corpus](https://github.com/IEEE-NITK/corpus)
 
-- 🌱 I’m currently learning **Golang**!
+- 🌱 I’m currently learning **Ruby**!
 
 - 🙋🏽‍♂️ I've been on GitHub for {{ ACCOUNT_AGE }} year(s)!
 
