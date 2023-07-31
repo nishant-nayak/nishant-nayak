@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* ⬆️ Pushed 1 commit to nishant-nayak/nishant-nayak
-* 🗣 Commented on #12 in IEEE-NITK/corpus
-* 🗣 Commented on #12 in IEEE-NITK/corpus
+* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
+* 🗣 Commented on #15 in IEEE-NITK/corpus
+* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
