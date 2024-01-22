@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
+* ❗️ Closed issue #75 in IEEE-NITK/corpus
 * ⬆️ Pushed 1 commit to IEEE-NITK/corpus
-* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
-* ⬆️ Pushed 7 commits to IEEE-NITK/corpus
+* ❗️ Closed issue #37 in IEEE-NITK/corpus
