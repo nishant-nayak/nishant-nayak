@@ -46,15 +46,10 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-* 🗣 Commented on #141 in IEEE-NITK/corpus
-* ❗️ Closed issue #112 in IEEE-NITK/corpus
-* ⬆️ Pushed 1 commit to IEEE-NITK/corpus
+* ⬆️ Pushed 1 commit to nishant-nayak/fluent-plugin-windows-eventlog
+* 💪 Opened PR #105 in fluent/fluent-plugin-windows-eventlog
+* ⬆️ Pushed 1 commit to nishant-nayak/fluent-plugin-windows-eventlog
