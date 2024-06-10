@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ruby**!
 
-- 🙋🏽‍♂️ I've been on GitHub for 3 year(s)!
+- 🙋🏽‍♂️ I've been on GitHub for 4 year(s)!
 
 ### Connect with me!
 
@@ -46,11 +46,6 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
