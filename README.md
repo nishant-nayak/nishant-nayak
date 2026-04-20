@@ -46,13 +46,8 @@
 #### 📊 Language Stats for the week
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 #### Recent Activity
 
-
+* ❌ Assigned PR #527 in india-ultimate/hub
